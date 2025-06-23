@@ -1,0 +1,1 @@
+# Junior-Python-Developer-Crypto-Trading-Bot
